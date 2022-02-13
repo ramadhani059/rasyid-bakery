@@ -11,4 +11,4 @@ Langkah - Langkah Menggunakan Program Dalam Folder ini :
 8. Import file sql yang berada di folder database/database.
 9. Jalankan php artisan serve dan npm run watch.
 
-# Selamat Mencoba
+Selamat Mencoba...
